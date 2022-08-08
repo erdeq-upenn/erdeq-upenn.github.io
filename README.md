@@ -17,4 +17,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### This is a personal homepage of erdeq  
 * link to the repository of [mini-codes](https://github.com/erdeq-upenn/mini_code)
-
+* link to the repository of [private](https://github.com/erdeq-upenn/erdeq-upenn)
