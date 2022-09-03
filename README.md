@@ -1,7 +1,5 @@
 ## Welcome to Dequan's Space 
 
----
-
 ### Public 
 
 ---
