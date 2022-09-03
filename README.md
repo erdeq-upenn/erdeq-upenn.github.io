@@ -1,9 +1,8 @@
 ## Welcome to Dequan's Space 
-
-### Notes 
+### Public 
+### Private
+#### Notes 
 * [MLOps](https://github.com/erdeq-upenn/erdeq-upenn/blob/master/1-learning_note/8-MLOps/README.md)  
-
-### This is a personal homepage of erdeq  
 * link to the repository of [mini-codes](https://github.com/erdeq-upenn/mini_code)
 * link to the repository of [private](https://github.com/erdeq-upenn/erdeq-upenn)
 * notes to some [Leetcode problems](https://github.com/erdeq-upenn/erdeq-upenn/blob/main/3-code/0-lc/0-leetcode.md)
