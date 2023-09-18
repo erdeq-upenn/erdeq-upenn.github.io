@@ -7,7 +7,7 @@
 
 ### Private
 #### Notes 
-* [MLOps](https://github.com/erdeq-upenn/erdeq-upenn/blob/master/1-learning_note/8-MLOps/README.md)  
+* [MLOps](https://github.com/erdeq-upenn/erdeq-upenn/tree/master/1-learning_note/8-MLOps)
 * link to the repository of [private](https://github.com/erdeq-upenn/erdeq-upenn)
 * notes to some [Leetcode problems](https://github.com/erdeq-upenn/erdeq-upenn/tree/master/3-code/0-lc)
 
